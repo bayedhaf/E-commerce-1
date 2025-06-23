@@ -1,3 +1,4 @@
+```
 ecommerce-app/
 ├── app/                          # Frontend routes (App Router)
 │   ├── layout.tsx                # Root layout (Navbar, Footer, etc.)
@@ -63,7 +64,7 @@ ecommerce-app/
 ├── next.config.js
 ├── package.json
 └── tsconfig.json
-
+```
 📌 Notes
 This structure uses Next.js App Router, introduced in v13+.
 
