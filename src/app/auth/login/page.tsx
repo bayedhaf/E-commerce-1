@@ -6,7 +6,7 @@ import Link from 'next/link'
 const login = () => {
   return (
     <div className='bg-stone-100 h-lvh text-stone-800 flex items-center justify-center'>
-      <div className="pt-20">
+      <div className="">
         <div className="bg-white w-[300px] text-center p-6 rounded-lg shadow-lg">
           <form action="" className="space-y-4">
             <h1 className="text-stone-800 text-2xl font-bold mb-4">Login</h1>
